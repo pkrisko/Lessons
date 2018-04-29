@@ -19,4 +19,5 @@ an adjancency matrix, but I couldn't find any for an AL, so I made my own.
 There are also two powerpoints you may or may not find useful for refreshing your
 fundamental graph characteristics and traversals.
 
-▻ https://github.com/pkrisko
+▻ https://docs.google.com/presentation/d/1ySazNi6kPWv7FKozQSgq1LoowQ63U-x_BTLYGkDl4Qw/edit?usp=sharing
+▻ https://docs.google.com/presentation/d/1eQ1S-bht7h6GKxiAeOmg5U8sQv5IXuiLpgW25rWMRbo/edit?usp=sharing
